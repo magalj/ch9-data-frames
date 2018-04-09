@@ -25,4 +25,4 @@ opponents <- c("dolphins", "rams", "49ers", "jets")
 rownames(games)<- opponents 
 
 # View your data frame to see how it has changed!
-View(games)
+View(games) 
